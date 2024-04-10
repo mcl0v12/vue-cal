@@ -1,3 +1,7 @@
+> [!WARNING]
+> This library is to be used as is and the codebase is currently not maintained. 
+> The project is not dead: there is a planned refactoring in summer 2024.
+
 # vue-cal
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/vue-cal.svg)](https://npmjs.com/package/vue-cal)
