@@ -1,6 +1,6 @@
 > [!WARNING]
-> This library is to be used as is and the codebase is currently not maintained. 
-> The project is not dead: there is a planned refactoring in summer 2024.
+> This library is to be used as is for the current codebase. 
+> However, I am actively working on the v5 in a branch. 😎
 
 # vue-cal
 
