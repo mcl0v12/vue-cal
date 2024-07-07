@@ -1,3 +1,7 @@
+> [!WARNING]
+> This library is to be used as is for the current codebase. 
+> However, I am actively working on the v5 in a branch. 😎
+
 # vue-cal
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/vue-cal.svg)](https://npmjs.com/package/vue-cal)
